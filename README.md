@@ -1,7 +1,7 @@
-#Hello Git and GitHub
+# Hello Git and GitHub
 
-##This is a Portfolio with litle projects to learn Full Stack Dev
+## This is a Portfolio with litle projects to learn Full Stack Dev
 
-##Projects :
+## Projects :
 
-1.RandomWorkout
+1. RandomWorkout
